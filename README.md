@@ -48,6 +48,18 @@ To run the full project, you will need to clone the repository and then set up b
     (See [**Mobile App README**](./mobile/README.md) for details)
 ---
 
+## Screenshots
+
+<div>
+  <img src="./mobile/assets/images/login_com.example.mcq_marker.jpg" alt="Login Screen" width="30%"/>
+  <img src="./mobile/assets/images/create_test_com.example.mcq_marker.jpg" alt="Create Test Screen" width="30%"/>
+  <img src="./mobile/assets/images/view_tests_com.example.mcq_marker.jpg" alt="Test List Screen" width="30%"/>
+  <img src="./mobile/assets/images/scan_com.example.mcq_marker.jpg" alt="Marking Screen" width="30%"/>
+  <img src="./mobile/assets/images/detail_script_com.example.mcq_marker.jpg" alt="Script Details Screen" width="30%"/>
+  <img src="./mobile/assets/images/summary_com.example.mcq_marker.jpg" alt="Test Summary Screen" width="30%"/>
+</div>
+---
+
 ### License
 
 This project is licensed under the MIT License.

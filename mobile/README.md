@@ -112,16 +112,6 @@ The app communicates with the backend via RESTful APIs for authentication, test 
 - **Camera Issues:** Ensure device permissions are granted.
 
 ---
-
-## Screenshots
-
-![Login Screen]
-![Test List]
-![Marking Screen]
-![Results Screen]
-
----
-
 ## FAQ
 
 **Q:** How do I connect the app to a different backend?  
