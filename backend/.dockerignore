@@ -1,0 +1,7 @@
+.venv
+__pycache__
+.git
+.vscode
+BUILDX_VERSION="v0.26.1" 
+ARCH=$(uname -m)
+https://github.com/docker/buildx/releases/download/v0.26.1/buildx-v0.26.1.linux-amd64
